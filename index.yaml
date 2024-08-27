@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-08-27T12:11:41.701507+02:00"
+entries:
+  foo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-27T12:21:43.017028+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6c549c3c78a88d3676658d1b005cf17a0ebb9cc25f4b8ea741a795a2679d9a7c
+    name: foo
+    type: application
+    urls:
+    - https://kulik95.github.io/helm-charts/charts/foo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-27T12:21:43.016142+02:00"
