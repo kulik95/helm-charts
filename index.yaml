@@ -3,12 +3,12 @@ entries:
   todo-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-27T13:19:35.489222+02:00"
+    created: "2024-08-27T13:51:45.396012+02:00"
     description: A Helm chart for Kubernetes
-    digest: 65b8b075cea6709d05e8bbc9defb8b78bc9702c347669a6281c1146fdda5ae32
+    digest: baa0310b01594f75ebd3b05129ba49e8fdfc5d8c8dd1b5b1ef9d5205fb12ba6c
     name: todo-app
     type: application
     urls:
     - https://kulik95.github.io/helm-charts/charts/todo-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-27T13:19:35.48852+02:00"
+generated: "2024-08-27T13:51:45.395189+02:00"
