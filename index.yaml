@@ -3,9 +3,9 @@ entries:
   react-hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-28T09:03:05.387452781Z"
+    created: "2024-08-28T09:10:46.488978244Z"
     description: A Helm chart for Kubernetes
-    digest: 4ba6a442105e0c9547a7dbb96d37450120630b84be45bd3de9b612107638e1ce
+    digest: 5b5cd12c4216901f1f9af4948440836596a7e40e9c6ed41a764dd5601ca3f5c5
     name: react-hello-world
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-28T09:03:05.387083851Z"
+    created: "2024-08-28T09:10:46.488609234Z"
     description: A Helm chart for Kubernetes
     digest: 16f17c182ab22f4a460327b8345aa52aecc5ddfa9bfeca212e6eeaa96da77334
     name: react-hello-world
@@ -24,7 +24,7 @@ entries:
   todo-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-28T09:03:05.387891583Z"
+    created: "2024-08-28T09:10:46.489365168Z"
     description: A Helm chart for Kubernetes
     digest: ef7364d92507365357b1ef6a52c386e6626dca132b0bbb93a7d0db9b56eb9c95
     name: todo-app
@@ -32,4 +32,4 @@ entries:
     urls:
     - charts/todo-app-0.1.1.tgz
     version: 0.1.1
-generated: "2024-08-28T09:03:05.386552265Z"
+generated: "2024-08-28T09:10:46.488077749Z"
